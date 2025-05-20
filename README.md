@@ -1,3 +1,5 @@
+Script Block Extractor - 
+
 Extract all or specific Script Blocks from the PowerShell Operational EVTX.
 
 To extract all Script Blocks use -      .\scriptBlockExtract4.ps1 -path "path\to\dir" 
